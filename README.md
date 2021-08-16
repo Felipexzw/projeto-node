@@ -13,6 +13,8 @@ Exemplo :
 
 git clone https://github.com/Felipexzw/projeto-node.git
 
+Mais um exemplo:
+
 Iniciar o arquivo de configuração package.json
 -> npm init -y
 
