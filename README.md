@@ -44,7 +44,7 @@ npm install nodemon -D (por exemplo)
 
 No package.json
 
-'scripts ' :{
+'dev' :{
   "morango":"nodemon server.js"
 }
 
