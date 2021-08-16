@@ -11,7 +11,7 @@ Tendo acesso ao prompt de comando
 
 Exemplo :
 
-git clone
+git clone https://github.com/Felipexzw/projeto-node.git
 
 Iniciar o arquivo de configuração package.json
 -> npm init -y
